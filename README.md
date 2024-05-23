@@ -1,7 +1,148 @@
+<!-- AlmaBetter project -->
+
+
 <!-- Title -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=5500&pause=900&color=38F7F2&center=true&random=false&width=550&lines=Yes+Bank+Stock+Closing+Price+Prediction" alt="Typing SVG" /></a>
 </p>
+
+<!-- About yes bank from alma's prespective -->
+<p align="right">
+  " Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month.<br> The main objective is to predict the stock’s closing price of the month. "
+</p>
+
+<!-- Table of content -->
+
+<h3>
+  Table of contents
+</h3>
+
+  * History and Background
+  * Operations and Expansion
+  * Financial Crisis and Reconstruction
+  * Shareholding and Financial Performance
+  * Subsidiaries and Market Listings
+  * Ratings and Future Plans
+  * FAQs
+
+
+<!-- From Internet prespective -->
+
+---
+
+<details>
+<summary>
+ History and Background:
+</summary>
+<br>
+<p align="center">
+  YES BANK was founded in 1999 by Ashok Kapur, Harkirat Singh, and Rana Kapoor, with Rabobank holding a significant 75% share. The bank underwent a rebranding in 2003, which saw the resignation of Harkirat Singh due to Rabobank's considerable influence over hiring decisions. The early 2000s were challenging for YES BANK as it faced difficulties in raising capital and accumulated substantial losses, resulting in downgrades and the withdrawal of deposits. A significant leadership change occurred when Rana Kapoor was fired and later arrested for money laundering. Under the new leadership of Kumar, the bank repositioned itself and received support through the YES Bank Reconstruction Scheme 2020. By July 2020, YES BANK's follow-on public offer (FPO) saw a 95% subscription, and the State Bank of India (SBI) acquired a 30% stake in the bank.
+</p>
+</details>
+
+---
+
+<details>
+<summary>
+ Operations and Expansion:
+</summary>
+<br>
+<p align="center">
+  YES BANK operates an extensive network of 1192 branches and 1301 ATMs, providing a wide array of retail and corporate banking services. The bank has embraced digital transformation by launching the YES Pay digital wallet and UPI services, forming partnerships with entities such as PhonePe and Yuva Pay. Furthermore, YES BANK has forged international partnerships to secure syndicated loans and support women entrepreneurs, in collaboration with organizations like OPIC and Wells Fargo. These initiatives demonstrate YES BANK's commitment to innovation and customer-centric services.
+</p>
+</details>
+
+---
+
+<details>
+<summary>
+ Financial Crisis and Reconstruction:
+</summary>
+<br>
+<p align="center">
+  In March 2020, YES BANK faced a severe crisis when the Reserve Bank of India (RBI) imposed a 30-day moratorium due to the bank's excessive bad loans. This resulted in restrictions on withdrawals, limiting them to ₹50,000. The crisis was swiftly addressed as SBI and a consortium of banks infused capital into YES BANK, leading to a rapid recovery and the lifting of the moratorium within 12 days. Despite the recovery, the bank's ratings were downgraded by ICRA and Moody's, and founder Rana Kapoor faced legal issues, including an arrest for money laundering. Additionally, the Securities and Exchange Board of India (SEBI) proposed a fine for fraudulent bond sales, highlighting the regulatory challenges the bank faced during this period.
+</p>
+</details>
+
+---
+
+<details>
+<summary>
+ Shareholding and Financial Performance:
+</summary>
+<br>
+<p align="center">
+  As of December 2023, institutional investors hold 65.99% of YES BANK's shares, with a significant portion held by Foreign Institutional Investors. In March 2018, major shareholders included foreign portfolio investors, insurance companies, and mutual funds. Recent financial developments have seen YES BANK raise funds through public offers and debt securities issuance, leading to a notable improvement in deposits and operating profits. These steps have strengthened the bank's financial foundation and positioned it for future growth.
+</p>
+</details>
+
+---
+
+<details>
+<summary>
+ Subsidiaries and Market Listings:
+</summary>
+<br>
+<p align="center">
+  YES BANK has three subsidiaries: YES Securities, YES Trustee, and YES Asset Management, which expand its financial service offerings. The bank is listed on the Bombay Stock Exchange, National Stock Exchange of India, and London Stock Exchange, providing it with a robust market presence both domestically and internationally.
+</p>
+</details>
+
+---
+
+<details>
+<summary>
+ Ratings and Future Plans:
+</summary>
+<br>
+<p align="center">
+  In 2020, YES BANK's ratings were upgraded by ICRA and Moody's, reflecting the positive impact of the restructuring efforts. Looking ahead, the bank plans to open 150 new branches in the fiscal year 2024, expand into affordable housing and used car loans, and achieve a milestone of 2 million credit cards by March 2024. These expansion plans underscore YES BANK's commitment to growth and its strategic focus on diversifying its service portfolio.
+</p>
+</details>
+
+---
+<details>
+<summary>
+  FAQs
+</summary><br>
+  <details>
+  <summary>
+   What makes YES BANK unique in the banking sector?
+  </summary>
+  <br>
+  <p align="center">
+    YES BANK's journey from financial challenges to recovery through strategic restructuring and support from major institutional investors sets it apart. Its resilience and ability to adapt to changing circumstances highlight its strength in the banking sector.
+  </p>
+  </details>
+  <details>
+  <summary>
+   How does YES BANK support digital banking?
+  </summary>
+  <br>
+  <p align="center">
+    YES BANK offers innovative digital solutions like YES Pay and UPI services, enhancing customer convenience and engagement. These digital initiatives are part of the bank's broader strategy to leverage technology for better customer service.
+  </p>
+  </details>
+  <details>
+  <summary>
+   What measures has YES BANK taken to ensure financial stability?
+  </summary>
+  <br>
+  <p align="center">
+    YES BANK has undergone significant restructuring, received capital infusion from SBI and other banks, and implemented robust governance practices to ensure financial stability. These measures have helped the bank regain its footing and build a solid foundation for future growth.
+  </p>
+  </details>
+  <details>
+  <summary>
+   What are YES BANK's plans for supporting entrepreneurs?
+  </summary>
+  <br>
+  <p align="center">
+    YES BANK partners with international entities to provide syndicated loans and supports women entrepreneurs through collaborations with OPIC and Wells Fargo. These partnerships are aimed at fostering entrepreneurship and promoting inclusive economic growth.
+  </p>
+  </details>
+  For more detailed information, please visit <a href="https://www.yesbank.in/" target="_blank">Yes Bank.</a>
+</details>
 
 <!-- GitHub stats -->
 ---

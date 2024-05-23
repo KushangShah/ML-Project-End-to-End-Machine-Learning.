@@ -168,7 +168,39 @@
 
 <!-- About Data Set -->
 <h1>About DataSet</h1>
+<p>Data consist of:</p>
+<div align="left">
+  <img src="images/Yes_bank_data.jpeg" alt="Logo" width="500" height="250">
+</div><br><p>Data.head() looks like this:</p><div align="left">
+  <img src="images/data set example.png" alt="Logo" width="550" height="250">
+</div><br>
+<p>To perform the ML on this project, We can considered this mapping:</p>
+<div align="left">
+  <img src="images/Project_Architechture.png" alt="Logo" width="720" height="350">
+</div><br>
 
+<!-- library used for this Projects -->
+---
+<details>
+<summary>
+ Main Libraries to be Used:
+</summary>
+<br>
+<p align="center">
+  * Pandas for data manipulation, aggregation<br>
+  * Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable<br>
+  * NumPy for computationally efficient operations<br>
+  * Scikit Learn for model training, model optimization, and metrics calculation<br>
+  * Statsmodels: For statistical modeling and regression analysis.<br>
+</p>
+</details>
+
+<br>
+
+<!-- License -->
+## License
+Distributed under the **MIT License.** See `LICENSE.txt` for more information.
+<br>
 
 <!-- GitHub stats -->
 ---

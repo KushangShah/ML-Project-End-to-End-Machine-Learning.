@@ -1,6 +1,27 @@
+<br>
 <!-- AlmaBetter project -->
+<!-- Logo -->
+<div align="left">
+  <img src="images/almabetter_logo.jpeg" alt="Logo" width="30" height="30">
+</div>
+<!-- Title -->
+<p align='left' >
+  AlmaBetter ML Project
+</p>
+<br><br>
 
+<!-- NL photo -->
 
+<div align="center">
+  <img src="images/ML.png" alt="Logo" width="720" height="222">
+</div>
+<br>
+
+<!-- Let's get started -->
+<h1 align='center'>
+  Let's Get Started
+</h1>
+<br><br>
 <!-- Title -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=5500&pause=900&color=38F7F2&center=true&random=false&width=550&lines=Yes+Bank+Stock+Closing+Price+Prediction" alt="Typing SVG" /></a>
@@ -143,6 +164,11 @@
   </details>
   For more detailed information, please visit <a href="https://www.yesbank.in/" target="_blank">Yes Bank.</a>
 </details>
+<br>
+
+<!-- About Data Set -->
+<h1>About DataSet</h1>
+
 
 <!-- GitHub stats -->
 ---

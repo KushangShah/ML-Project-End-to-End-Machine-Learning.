@@ -197,6 +197,14 @@
 
 <br>
 
+<!-- regreession -->
+This is **Regression** Type ML Project.<br>
+<!-- Put ML map here -->
+<div align="center">
+  <img="images/ML map.png" alt="map" width="720" height="250">
+</div>
+
+
 <!-- License -->
 ## License
 Distributed under the **MIT License.** See `LICENSE.txt` for more information.

@@ -201,8 +201,44 @@
 This is **Regression** Type ML Project.<br>
 <!-- Put ML map here -->
 <div align="center">
-  <img="images/ML map.png" alt="map" width="720" height="250">
-</div>
+  <img src="images/ML map.png" alt="logo" width="720" height="250">
+</div><br><br>
+
+---
+
+<details>
+<summary>
+  Regressuin:
+</summary><br>
+  <details>
+  <summary>
+   What is Supervised learning?
+  </summary>
+  <br>
+  <p align="left">
+    Supervised models in machine learning are a type of model that learn to make predictions or decisions from a set of labeled data. The term "supervised" refers to the process of an algorithm learning from the training dataset, which is like a teacher supervising the learning process. Here's a more detailed explanation:<br><br>
+1. Labeled Data: In supervised learning, the data used for training is labeled. This means each example in the training set consists of input data (often referred to as features) and the corresponding output (often referred to as the label or target). For example, in a dataset for house price prediction, the features might include the size of the house, the number of rooms, and the location, while the label would be the price of the house.<br><br>
+2. Learning from Examples: The supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. This process is called learning because the algorithm improves its performance on the task as it processes more data.<br><br>
+3. Types of Tasks:<br><br>
+  * Classification: In classification tasks, the outputs are discrete categories. For example, identifying whether an email      is spam or not spam is a classification task.<br>
+   * Regression: In regression tasks, the outputs are continuous values. For example, predicting the price of a house based       on various features is a regression task.<br><br>
+4. Generalization: The ultimate goal of a supervised learning algorithm is to generalize from the training data to new, unseen data. This means that after training, the model should be able to make accurate predictions or decisions for examples it has never seen before.<br><br>
+5. Applications: Supervised learning models are used in a wide range of applications including image and speech recognition, credit scoring, predicting customer behavior, and many more.<br>
+
+In summary, supervised models are a foundational element of machine learning, where the focus is on learning a mapping from inputs to outputs, using examples where the correct outputs are known.<br>
+  </p>
+  </details>
+  <details>
+  <summary>
+   What is it called Regression?
+  </summary>
+  <br>
+  <p align="left">
+    A regression is a statistical technique that relates a dependent variable to one or more independent (explanatory) variables. A regression model is able to show whether changes observed in the dependent variable are associated with changes in one or more of the explanatory variables.
+  </p>
+  </details>
+</details>
+<br>
 
 
 <!-- License -->

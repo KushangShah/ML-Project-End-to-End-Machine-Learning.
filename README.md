@@ -45,6 +45,12 @@
   * Subsidiaries and Market Listings
   * Ratings and Future Plans
   * FAQs
+  * About DataSet
+  * Main Library to be used
+  * Regression
+  * License
+  * Github Stats
+  * Connext with me
 
 
 <!-- From Internet prespective -->
@@ -208,7 +214,7 @@ This is **Regression** Type ML Project.<br>
 
 <details>
 <summary>
-  Regressuin:
+  Regression:
 </summary><br>
   <details>
   <summary>

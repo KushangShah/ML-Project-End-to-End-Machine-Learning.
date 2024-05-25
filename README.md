@@ -255,7 +255,7 @@ Distributed under the **MIT License.** See `LICENSE.txt` for more information.
 <!-- GitHub stats -->
 ---
 
-<details open="">
+<details>  <!--  open="" -->
 <summary>
  📔 GitHub Stats:
 </summary>

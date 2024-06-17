@@ -188,17 +188,33 @@
 
 <!-- library used for this Projects -->
 ---
-<details>
+<details open>
 <summary>
- Main Libraries to be Used:
+ <h2>Main Libraries to be Used:</h2>
 </summary>
 <br>
 <p align="center">
-  * Pandas for data manipulation, aggregation<br>
-  * Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable<br>
-  * NumPy for computationally efficient operations<br>
-  * Scikit Learn for model training, model optimization, and metrics calculation<br>
-  * Statsmodels: For statistical modeling and regression analysis.<br>
+  import numpy as np<br>
+  import pandas as pd<br>
+  import seaborn as sns<br>
+  import plotly.express as px<br>
+  from sklearn import metrics<br>
+  from datetime import datetime<br>
+  import matplotlib.pyplot as plt<br>
+  from sklearn.metrics import r2_score<br>
+  from sklearn.preprocessing import MinMaxScaler<br>
+  from sklearn.preprocessing import StandardScaler<br>
+  from sklearn.model_selection import GridSearchCV<br>
+  from sklearn.linear_model import LinearRegression<br>
+  from sklearn.ensemble import RandomForestRegressor<br>
+  from sklearn.model_selection import train_test_split<br>
+  from sklearn.model_selection import cross_val_score<br>
+  from sklearn.preprocessing import FunctionTransformer<br>
+  from sklearn.model_selection import RandomizedSearchCV<br>
+  from sklearn.linear_model import (Lasso, Ridge, ElasticNet)<br>
+  from sklearn.metrics import (mean_squared_error, mean_absolute_percentage_error, mean_absolute_error)<br>
+  import warnings<br>
+  warnings.filterwarnings('ignore')<br><br>
 </p>
 </details>
 

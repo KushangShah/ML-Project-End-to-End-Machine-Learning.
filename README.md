@@ -47,6 +47,7 @@
   * FAQs
   * About DataSet
   * Main Library to be used
+  * Conclusion
   * Regression
   * License
   * Github Stats
@@ -211,7 +212,32 @@ This is **Regression** Type ML Project.<br>
 </div><br><br>
 
 ---
+<details open>
+<summary>
+ <h2>Conclusion</h1>
+</summary>
+<br>
+<p align="center">
+  The main goal of the project is to create a machine learning model which can predict the closing price of Yes Bank stock for that month, taking into consideration the fraud case that occurred in 2018.<br>
+<br>
+Two models, Linear Regression and Random Forest, have been developed for this purpose. The Random Forest model has shown promising results with an R2 score of 0.97 on the training dataset and 0.95 on the test dataset, indicating its potential for solving this problem. Additionally, it incorporates newly added features and addresses multicollinearity.<br>
+<br>
+One crucial feature that plays a significant role in determining the closing price is the mean_ohl.<br>
+<br>
+Based on the dataset and features, our model is performing well on all data points. With such high accuracy in predictions, we can confidently deploy this model for further predictive tasks using future data.<br><br>
+</p>
+</details>
 
+<br>
+
+<!-- regreession -->
+This is **Regression** Type ML Project.<br>
+<!-- Put ML map here -->
+<div align="center">
+  <img src="images/ML map.png" alt="logo" width="720" height="250">
+</div><br><br>
+
+---
 <details>
 <summary>
   Regression:
